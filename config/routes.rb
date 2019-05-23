@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 end
 
 
-
+# 
 # Rails.application.routes.draw do
 #   resources :brands, only: [:index, :show] do
 #     resources :products, only: [:index, :show]
