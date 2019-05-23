@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 end
 
 
-# 
+# https://edgeguides.rubyonrails.org/routing.html
 # Rails.application.routes.draw do
 #   resources :brands, only: [:index, :show] do
 #     resources :products, only: [:index, :show]
